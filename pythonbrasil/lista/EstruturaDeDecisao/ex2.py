@@ -1,6 +1,6 @@
 #Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
 
-n1=float(input("Digite um número:"))
+n1=float(input("Digite um número qualquer:"))
 if n1>0:
     print ("O número é positivo")
 elif n1<0:
